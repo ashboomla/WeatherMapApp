@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherMapAppExercise</string>
+    <string name="label_feels_like">Feels Like: \</string>
+    <string name="label_temp">Temp: </string>
+</resources>
